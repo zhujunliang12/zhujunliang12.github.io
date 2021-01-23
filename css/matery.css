@@ -513,10 +513,7 @@ header .side-nav .social-link {
     color: #fff;
 }
 
-.bg-cover:after {
-    -webkit-animation: rainbow 60s infinite;
-    animation: rainbow 60s infinite;
-}
+
 
 header .go-back {
     float: left;
